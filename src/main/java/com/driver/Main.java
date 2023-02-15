@@ -20,6 +20,6 @@ public class Main {
              product p=new product();
              p.product(10,5);
              p.product(10,5,2);
-             p.product(5,10);
+             p.product(10.0,5.0);
          }
 }
